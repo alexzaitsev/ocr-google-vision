@@ -1,7 +1,7 @@
 ## Overview
 
-This is a sample project demonstrating how OCR can be implemented using Google Vision library.   
-You can download apk file [here](https://github.com/alexzaitsev/ocr-google-vision/releases).
+This is a sample project demonstrating how OCR (optical character recognition) can be implemented using Google Vision library.  
+Apk file is available [here](https://github.com/alexzaitsev/ocr-google-vision/releases).
 
 *Benefits:*
 * requires no internet connection
